@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared Sinai Hernandez</h1>
-<h3 align="center">Full-stack Engineer helping others learn</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
 - 🔭 I’m currently working on **theCoderSchool Montgomery**
 
