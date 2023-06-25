@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **herjaredsinai@gmail.com**
 
-- ⚡ Fun fact **I fail to fail**
+- ⚡ Fun fact **I eat my meals without my phone these days**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
