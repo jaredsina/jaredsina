@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **herjaredsinai@gmail.com**
 
-- ⚡ Fun fact **I eat my meals without my phone these days**
+- ⚡ Fun fact **Im on episode 600 of one piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
