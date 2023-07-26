@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jared Sinai Hernandez</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on **theCoderSchool Montgomery**
+- 🔭 I’m currently working on **Camp Organizer for theCoderSchool Montgomery**
 
 - 💬 Ask me about **javascript, python, game design**
 
