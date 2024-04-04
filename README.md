@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Jared Sinai Hernandez</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on adding Actions to **Camp Organizer for theCoderSchool Montgomery**
+- 🔭 I’m currently working on creating **theCoderSchool Toolkit**
 
 - I'm currently learning how to use Containers with Docker
 
