@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on creating **theCoderSchool Toolkit**
 
-- I'm currently learning how to use Containers with Docker
+- I'm currently learning how to use Relational Databases with PostgreSQL and Sequelize
 
 - 📫 How to reach me **herjaredsinai@gmail.com**
 
