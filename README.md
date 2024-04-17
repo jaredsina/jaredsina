@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on creating **theCoderSchool Toolkit**
 
-- I'm currently learning how to use Relational Databases with PostgreSQL and Sequelize
+- I'm currently learning more about TypeScript!
 
 - 📫 How to reach me **herjaredsinai@gmail.com**
 
