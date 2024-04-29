@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm Jared Sinai Hernandez</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on creating **theCoderSchool Toolkit**
-
-- I'm currently learning more about TypeScript!
+- 🔭 I’m currently working on creating **theCoderSchool CoderFair Tool**
 
 - 📫 How to reach me **herjaredsinai@gmail.com**
 
