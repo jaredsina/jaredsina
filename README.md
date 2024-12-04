@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **herjaredsinai@gmail.com**
 
-- ⚡ Fun fact **I listen to anime OSTs while lifting...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
